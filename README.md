@@ -10,4 +10,4 @@ in the world - based on current information, they must decide how to act,
 balancing both achieving a goal and collecting new information. Additionally,
 this project stresses the importance of formulation and representation. There
 are a number of roughly equivalent ways to express and solve this problem. But
-we will resort to Bayesian update, Where we factor new information to update our prior beliefs about the system.
+we will resort to Bayesian update, Where we factor new information as we search along to update our prior beliefs about the system.
