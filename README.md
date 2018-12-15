@@ -1,1 +1,2 @@
-# Bayesian_Hunting-Search_and_Destroy-
+# probalistic-search-and-destroy
+To start the project run "run.py"
